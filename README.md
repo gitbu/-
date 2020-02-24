@@ -9,13 +9,13 @@
 <details>
   <summary>markdown</summary>
   
-  - [ ] [markdown]语法的展开收起和锚点
+  - [ ] 语法的展开收起和锚点
 </details>
 
 <details>
   <summary>linux常用命令</summary>
   
-  - [ ] [linux常用命令]netstat用法
+  - [ ]netstat用法
 </details>
 
 
