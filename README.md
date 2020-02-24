@@ -15,7 +15,7 @@
 <details>
   <summary>linux常用命令</summary>
   
-  - [ ]netstat用法
+  - [] netstat用法
 </details>
 
 
